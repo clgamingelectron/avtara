@@ -1,11 +1,11 @@
 // EDIT LIST HERE
 
 let list = [
-  "First text",
-  "Random yikes",
-  "Redditor",
-  "That's me",
-  "Hello there"
+  "This is Avtara's page",
+  "That's you!",
+  "Indeed, a wise choice",
+  "You're a wizard, Harry!",
+  "Yes"
 ];
 
 // EDIT LIST HERE
