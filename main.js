@@ -1,28 +1,28 @@
 // EDIT LIST HERE
 
 let list = [
-  "Show your pussy fully",
-  "Show your pussy halfway",
-  "Send a photo of your ass, bent down a little, no panties",
-  "Send a photo of your ass, bent down a little, no panties",
-  "Show your pussy halfway",
-  "Send a photo of your ass, bent down a little, no panties",
+  "Lick your finger",
+  "Grab your boobs over the clothes and send a photo",
+  "Do a slow moan",
+  "Lick your finger and then circle your tits with that finger, send a photo",
+  "Put one finger completely inside your pussy, keep going in and out slowly while you try to hold a conversation for 1 minute",
+  "You got lucky, you get to ask for a close picture of the other persons tip",
   "Pull up your clothes to reveal whatever is underneath",
-  "Show your pussy fully",
-  "Press on your pussy but from the back of your legs, show it",
+  "Rub your clit 5 times and moan",
+  "Press on your pussy but from the back of your legs",
   "Touch yourself lightly over your clothes",
-  "Show your pussy halfway",
-  "Show your pussy fully",
-  "Show your pussy halfway.",
-  "Show your pussy halfway",
-  "Show your pussy halfway",
-  "Send a photo of your ass, bent down a little, no panties",
-  "Show your pussy fully",
-  "Show your ass in a video",
-  "Show your pussy halfway",
+  "Send a photo of your panties",
+  "Send a photo of your bra",
+  "You are saved! No dare this time.",
+  "Slowly pull up your tshirt using both hands, record that and send",
+  "Lick a piece of ice and touch it lightly on both of your tits for 1 second",
+  "Rub a piece of cloth over your pusy",
+  "Stand wearing your top half and no bottom half, only show your legs",
+  "Circle your clit over your panties",
+  "Insert your pinky inside you and wiggle a little while you squeeze",
   "Show your ass, no clothing",
-  "Show your pussy halfway", 
-  "Show your pussy fully"
+  "Get any object, like a pen and play with your pussy using that. Send a photo of that object", 
+  "Keep wearing your panties and a tshirt/top, send a photo of your ass but bend down a little"
 ];
 
 // EDIT LIST HERE
