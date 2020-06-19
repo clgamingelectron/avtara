@@ -1,28 +1,28 @@
 // EDIT LIST HERE
 
 let list = [
-  "Lick your finger",
-  "Grab your boobs over the clothes and send a photo",
+  "Show your pussy halfway",
+  "Show your pussy halfway",
   "Do a slow moan",
   "Lick your finger and then circle your tits with that finger, send a photo",
-  "Put one finger completely inside your pussy, keep going in and out slowly while you try to hold a conversation for 1 minute",
+  "Show your pussy halfway",
   "You got lucky, you get to ask for a close picture of the other persons tip",
   "Pull up your clothes to reveal whatever is underneath",
-  "Rub your clit 5 times and moan",
+  "Show your pussy halfway",
   "Press on your pussy but from the back of your legs",
   "Touch yourself lightly over your clothes",
-  "Send a photo of your panties",
-  "Send a photo of your bra",
-  "You are saved! No dare this time.",
+  "Show your pussy halfway",
+  "Show your pussy halfway",
+  "Show your pussy halfway.",
   "Slowly pull up your tshirt using both hands, record that and send",
-  "Lick a piece of ice and touch it lightly on both of your tits for 1 second",
+  "Show your pussy halfway",
   "Rub a piece of cloth over your pusy",
-  "Stand wearing your top half and no bottom half, only show your legs",
+  "Show your pussy halfway",
   "Circle your clit over your panties",
-  "Insert your pinky inside you and wiggle a little while you squeeze",
+  "Show your pussy halfway",
   "Show your ass, no clothing",
-  "Get any object, like a pen and play with your pussy using that. Send a photo of that object", 
-  "Keep wearing your panties and a tshirt/top, send a photo of your ass but bend down a little"
+  "Show your pussy halfway", 
+  "Show your pussy halfway"
 ];
 
 // EDIT LIST HERE
