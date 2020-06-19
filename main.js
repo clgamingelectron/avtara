@@ -1,28 +1,28 @@
 // EDIT LIST HERE
 
 let list = [
-  "Show your pussy halfway",
+  "Show your pussy fully",
   "Show your pussy halfway",
   "Send a photo of your ass, bent down a little, no panties",
   "Send a photo of your ass, bent down a little, no panties",
   "Show your pussy halfway",
   "Send a photo of your ass, bent down a little, no panties",
   "Pull up your clothes to reveal whatever is underneath",
-  "Show your pussy halfway",
+  "Show your pussy fully",
   "Press on your pussy but from the back of your legs, show it",
   "Touch yourself lightly over your clothes",
   "Show your pussy halfway",
-  "Show your pussy halfway",
+  "Show your pussy fully",
   "Show your pussy halfway.",
   "Show your pussy halfway",
   "Show your pussy halfway",
   "Send a photo of your ass, bent down a little, no panties",
-  "Show your pussy halfway",
+  "Show your pussy fully",
   "Show your ass in a video",
   "Show your pussy halfway",
   "Show your ass, no clothing",
   "Show your pussy halfway", 
-  "Show your pussy halfway"
+  "Show your pussy fully"
 ];
 
 // EDIT LIST HERE
